@@ -1,4 +1,4 @@
-# todo
+# Todo App (Bloc Pattern)
 
 A new Flutter project.
 
