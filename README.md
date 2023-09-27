@@ -15,5 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="./assets/2.jpg" alt="todo" width="300" height="500"> <img src="./assets/1.jpg" alt="todo" width="300" height="500">
+<img src="./assets/2.jpg" alt="todo" width="500" height="650"> <img src="./assets/1.jpg" alt="todo" width="500" height="650">
 
